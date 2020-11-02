@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Скриншоты проекта "ImageTarget"</title>
+</head>
+<body background = "images/background.jpg">
+<br>
+<div>
+<img src="images/ImageTarget/pic1.jpg" style='width:280px;height:500px; margin-left:5px;margin-bottom:5px;' class='round'>
+<img src="images/ImageTarget/pic2.jpg" style='width:280px;height:500px; margin-left:5px;margin-bottom:5px;' class='round'>
+<img src="images/ImageTarget/pic3.jpg" style='width:280px;height:500px; margin-left:5px;margin-bottom:5px;' class='round'>
+</div>
+<br>

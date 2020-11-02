@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Скриншоты проекта "Cross Drive"</title>
+</head>
+<body background = "images/background.jpg">
+<br>
+<div>
+<img src="images/MiniGame/pic1.jpg" style='width:500px;height:280px; margin-left:5px;margin-bottom:5px;' class='round'>
+<img src="images/MiniGame/pic2.jpg" style='width:500px;height:280px; margin-left:5px;margin-bottom:5px;' class='round'>
+<img src="images/MiniGame/pic3.jpg" style='width:500px;height:280px; margin-left:5px;margin-bottom:5px;' class='round'>
+<img src="images/MiniGame/pic4.jpg" style='width:500px;height:280px; margin-left:5px;margin-bottom:5px;' class='round'>
+<img src="images/MiniGame/pic5.jpg" style='width:500px;height:280px; margin-left:5px;margin-bottom:5px;' class='round'>
+</div>
+<br>

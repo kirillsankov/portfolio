@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Скриншоты проекта "Tank"</title>
+</head>
+<body background = "images/background.jpg">
+<br>
+<div>
+<img src="images/Tank/pic1.jpg" style='width:500px;height:230px; margin-left:5px;margin-bottom:5px;' class='round'>
+<img src="images/Tank/pic2.jpg" style='width:500px;height:230px; margin-left:5px;margin-bottom:5px;' class='round'>
+<img src="images/Tank/pic3.jpg" style='width:500px;height:230px; margin-left:5px;margin-bottom:5px;' class='round'>
+<img src="images/Tank/pic4.jpg" style='width:500px;height:230px; margin-left:5px;margin-bottom:5px;' class='round'>
+</div>
+<br>

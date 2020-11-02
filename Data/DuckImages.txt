@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Скриншоты проекта "Cross Drive"</title>
+</head>
+<body background = "images/background.jpg">
+<br>
+<div>
+<img src="images/Duck/pic1.jpg" style='width:500px;height:230px; margin-left:5px;margin-bottom:5px;' class='round'>
+<img src="images/Duck/pic2.jpg" style='width:500px;height:230px; margin-left:5px;margin-bottom:5px;' class='round'>
+<img src="images/Duck/pic3.jpg" style='width:500px;height:230px; margin-left:5px;margin-bottom:5px;' class='round'>
+</div>
+<br>
